@@ -6780,6 +6780,77 @@
         ],
         "icon":"ppqz.ico",
         "background":"backgrounds/ppqz.jpg"
+    },
+    {
+        "id":"roj",
+        "name":"Republic of Jungle",
+        "description":"Year of release: 2025",
+        "launchers_id":{
+            "steam":"1413250"
+        },
+        "executables":{
+            "windows":"Republic of Jungle.exe",
+            "mac":"Papa’s Quiz.app/Contents/MacOS/Republic of Jungle",
+            "linux":"Republic of Jungle.exe"
+        },
+        "configuration":{
+	        "version_origin":"game_file",
+            "version_file":"config.dat",
+            "version_property":"buildVersion"
+        },
+        "resource_location":{
+            "mac":"Republic of Jungle.app/Contents/Resources/Data"
+        },
+        "store_links":{
+            "steam":"https://store.steampowered.com/app/1413250/Republic_of_Jungle/"
+        },
+            "patchs":[],
+        "games":[
+            {
+                "id":"republic_of_jungle",
+                "name":"Republic of Jungle",
+                "background":"game_backgrounds/RepublicOfJungle.webp",
+                "path":"",
+                "game_info":{
+                    "players":{
+                        "min":5,
+                        "max":10
+                    },
+                    "playtime":{
+                        "min":15,
+                        "max":30
+                    },
+                    "family_friendly":"OPTIONAL",
+                    "audience":false,
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"This game doesn't require moderation.",
+                    "subtitles":true,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"Join the pack, play the party",
+                    "small_description":"Join the pack, play the party",
+                    "description":"Republic of Jungle is a social deduction game for 5-10 players. The goal is to leak a presidential candidate's secrets or find the leakers.",
+                    "images":[
+                        "game_images/RepublicOfJungle/republic_of_jungle.mp4",
+                        "game_images/RepublicOfJungle/republic_of_jungle_1.jpg",
+                        "game_images/RepublicOfJungle/republic_of_jungle_2.jpg",
+                        "game_images/RepublicOfJungle/republic_of_jungle_3.jpg",
+                        "game_images/RepublicOfJungle/republic_of_jungle_4.jpg"
+                    ],
+                    "tags":[
+                    	"talking",
+                        "deduction"
+                    ]
+
+                },
+                "patchs":[
+                    
+                ]
+            }
+        ],
+        "icon":"roj.ico",
+        "background":"backgrounds/roj.jpg"
     }
 
 ]
