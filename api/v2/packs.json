@@ -6851,6 +6851,77 @@
         ],
         "icon":"roj.ico",
         "background":"backgrounds/roj.jpg"
+    },
+	{
+        "id":"whapgfdc",
+        "name":"Wild Honesty: A party game for deeper conversations",
+        "description":"Year of release: 2020",
+        "launchers_id":{
+            "steam":"1354520"
+        },
+        "executables":{
+            "windows":"Wild Honesty.exe",
+            "mac":"Papa’s Quiz.app/Contents/MacOS/Republic of Jungle",
+            "linux":"Wild Honesty.exe"
+        },
+        "configuration":{
+	        "version_origin":"game_file",
+            "version_file":"config.dat",
+            "version_property":"buildVersion"
+        },
+        "resource_location":{
+            "mac":"Republic of Jungle.app/Contents/Resources/Data"
+        },
+        "store_links":{
+            "steam":"https://store.steampowered.com/app/1354520/Wild_Honesty_A_party_game_for_deeper_conversations/"
+        },
+            "patchs":[],
+        "games":[
+            {
+                "id":"wild_honesty",
+                "name":"Wild Honesty: A party game for deeper conversations",
+                "background":"game_backgrounds/WildHonesty.webp",
+                "path":"",
+                "game_info":{
+                    "players":{
+                        "min":2,
+                        "max":5
+                    },
+                    "playtime":{
+                        "min":15,
+                        "max":30
+                    },
+                    "family_friendly":"OPTIONAL",
+                    "audience":false,
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"This game doesn't require moderation.",
+                    "subtitles":true,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"A party game for deeper conversations",
+                    "small_description":"A party game for deeper conversations",
+                    "description":"A party game to facilitate conversations and share opinions, thoughts, and feelings.",
+                    "images":[
+                        "game_images/WildHonesty/wild_honesty.mp4",
+                        "game_images/WildHonesty/wild_honesty_1.jpg",
+                        "game_images/WildHonesty/wild_honesty_2.jpg",
+                        "game_images/WildHonesty/wild_honesty_3.jpg",
+                        "game_images/WildHonesty/wild_honesty_4.jpg"
+                    ],
+                    "tags":[
+                    	"talking",
+                        "deduction"
+                    ]
+
+                },
+                "patchs":[
+                    
+                ]
+            }
+        ],
+        "icon":"whapgfdc.ico",
+        "background":"backgrounds/whapgfdc.jpg"
     }
 
 ]
