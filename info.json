@@ -1,14 +1,14 @@
 {
-    "id":"jackbox-en",
-    "name":"Jackbox Utility",
-    "description":"The community server for Jackbox Games in English!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "id":"jackbox-MarMar-en",
+    "name":"Jackbox Utility: MarMar Edition",
+    "description":"The MarMar server for Jackbox Games in English!",
+    "image":"https://raw.githubusercontent.com/MarMarBunbun/JackboxUtility-Server-en/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/MarMarBunbun/JackboxUtility-Server-en/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/MarMarBunbun/JackboxUtility-Server-en/main/assets"
         }
     ],
     "controller":"jackbox.tv",
